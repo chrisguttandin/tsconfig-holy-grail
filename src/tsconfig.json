@@ -18,7 +18,7 @@
     "sourceMap": true,
     "target": "es2015",
     "typeRoots": [
-      "../@types"
+      "../../@types"
     ]
   }
 }

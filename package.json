@@ -1,0 +1,35 @@
+{
+  "author": "Christoph Guttandin",
+  "bugs": {
+    "url": "https://github.com/chrisguttandin/tsconfig-holy-grail/issues"
+  },
+  "dependencies": {},
+  "description": "This is just my personal collection of tsconfig files.",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint-config-holy-grail": "^15.0.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-sh": "^0.1.4",
+    "gruntify-eslint": "^3.1.0",
+    "husky": "^0.13.1",
+    "load-grunt-config": "^0.19.2",
+    "mocha": "^3.2.0",
+    "tsconfig": "^5.0.3",
+    "tslint-config-holy-grail": "^6.0.1"
+  },
+  "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
+  "license": "MIT",
+  "main": "src/module.js",
+  "name": "tsconfig-holy-grail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisguttandin/tsconfig-holy-grail.git"
+  },
+  "scripts": {
+    "precommit": "grunt lint",
+    "test": "grunt lint && grunt test"
+  },
+  "version": "0.0.0"
+}

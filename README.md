@@ -1,5 +1,7 @@
 # tsconfig-holy-grail
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisguttandin/tsconfig-holy-grail.svg)](https://greenkeeper.io/)
+
 **This is just my personal collection of tsconfig files.**
 
 [![tests](https://img.shields.io/travis/chrisguttandin/tsconfig-holy-grail/master.svg?style=flat-square)](https://travis-ci.org/chrisguttandin/tsconfig-holy-grail)

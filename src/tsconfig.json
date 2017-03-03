@@ -14,7 +14,7 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "../build/es2015",
+    "outDir": "../../../build/es2015",
     "sourceMap": true,
     "target": "es2015",
     "typeRoots": [

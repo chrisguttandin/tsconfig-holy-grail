@@ -16,9 +16,6 @@
     "noUnusedParameters": true,
     "outDir": "../../../build/es2015",
     "sourceMap": true,
-    "target": "es2015",
-    "typeRoots": [
-      "../../@types"
-    ]
+    "target": "es2015"
   }
 }

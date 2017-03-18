@@ -16,7 +16,7 @@
     "husky": "^0.13.1",
     "load-grunt-config": "^0.19.2",
     "mocha": "^3.2.0",
-    "tsconfig": "^5.0.3",
+    "tsconfig": "^6.0.0",
     "tslint-config-holy-grail": "^7.0.0"
   },
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",

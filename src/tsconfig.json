@@ -1,6 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "alwaysStrict": true,
     "baseUrl": "",
     "declaration": true,
     "emitDecoratorMetadata": true,
@@ -16,6 +17,7 @@
     "noUnusedParameters": true,
     "outDir": "../../../build/es2015",
     "sourceMap": true,
+    "strictNullChecks": true,
     "target": "es2015"
   }
 }

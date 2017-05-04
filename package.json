@@ -19,6 +19,9 @@
     "tsconfig": "^6.0.0",
     "tslint-config-holy-grail": "^7.0.0"
   },
+  "engines": {
+    "node": ">=6.10.3"
+  },
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
   "license": "MIT",
   "main": "src/module.js",

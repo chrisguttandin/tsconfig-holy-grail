@@ -34,4 +34,17 @@ describe('tsconfig-holy-grail', () => {
 
     });
 
+    describe('tsconfig-web-worker.json', () => {
+
+        let path;
+
+        beforeEach(() => path = 'tsconfig-web-worker.json');
+
+        it('should be a parsable config file', () => {
+            return load(cwd, path)
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+        });
+
+    });
+
 });

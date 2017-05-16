@@ -18,6 +18,7 @@
     "outDir": "../../../build/es2015",
     "sourceMap": true,
     "strictNullChecks": true,
-    "target": "es2015"
+    "target": "es2015",
+    "types": [ ]
   }
 }

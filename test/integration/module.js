@@ -21,6 +21,19 @@ describe('tsconfig-holy-grail', () => {
 
     });
 
+    describe('tsconfig-node.json', () => {
+
+        let path;
+
+        beforeEach(() => path = 'tsconfig-node.json');
+
+        it('should be a parsable config file', () => {
+            return load(cwd, path)
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+        });
+
+    });
+
     describe('tsconfig-universal.json', () => {
 
         let path;

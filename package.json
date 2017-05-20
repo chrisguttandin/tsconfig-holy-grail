@@ -24,6 +24,9 @@
   "engines": {
     "node": ">=6.10.3"
   },
+  "files": [
+    "src/"
+  ],
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
   "license": "MIT",
   "name": "tsconfig-holy-grail",

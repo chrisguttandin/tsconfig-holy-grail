@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
   "license": "MIT",
-  "main": "src/module.js",
   "name": "tsconfig-holy-grail",
   "repository": {
     "type": "git",

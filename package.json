@@ -20,7 +20,7 @@
     "load-grunt-config": "^0.19.2",
     "mocha": "^3.2.0",
     "tsconfig": "^6.0.0",
-    "tslint-config-holy-grail": "^9.0.7"
+    "tslint-config-holy-grail": "^9.0.8"
   },
   "engines": {
     "node": ">=6.10.3"

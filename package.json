@@ -4,7 +4,7 @@
     "url": "https://github.com/chrisguttandin/tsconfig-holy-grail/issues"
   },
   "dependencies": {
-    "@types/node": "^8.0.17"
+    "@types/node": "^8.0.19"
   },
   "description": "This is just my personal collection of tsconfig files.",
   "devDependencies": {

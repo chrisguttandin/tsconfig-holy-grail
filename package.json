@@ -23,7 +23,7 @@
     "tslint-config-holy-grail": "^9.0.13"
   },
   "engines": {
-    "node": ">=6.10.3"
+    "node": ">=6.11.2"
   },
   "files": [
     "src/"

@@ -6,6 +6,7 @@
     "declaration": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "importHelpers": true,
     "mapRoot": "/build/es2015",
     "module": "es2015",
     "moduleResolution": "node",

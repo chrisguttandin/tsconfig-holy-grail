@@ -33,6 +33,9 @@
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
   "license": "MIT",
   "name": "tsconfig-holy-grail",
+  "peerDependencies": {
+    "tslib": ">=1.7.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/chrisguttandin/tsconfig-holy-grail.git"

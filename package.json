@@ -19,7 +19,7 @@
     "gruntify-eslint": "^4.0.0",
     "husky": "^0.14.3",
     "load-grunt-config": "^0.19.2",
-    "mocha": "^3.5.2",
+    "mocha": "^3.5.3",
     "tsconfig": "^7.0.0",
     "tslint": "^5.7.0",
     "tslint-config-holy-grail": "^11.0.2",

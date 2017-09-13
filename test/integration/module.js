@@ -16,7 +16,7 @@ describe('tsconfig-holy-grail', () => {
 
         it('should be a parsable config file', () => {
             return load(cwd, path)
-                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
         });
 
     });
@@ -29,7 +29,7 @@ describe('tsconfig-holy-grail', () => {
 
         it('should be a parsable config file', () => {
             return load(cwd, path)
-                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
         });
 
     });
@@ -42,7 +42,7 @@ describe('tsconfig-holy-grail', () => {
 
         it('should be a parsable config file', () => {
             return load(cwd, path)
-                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
         });
 
     });
@@ -55,7 +55,7 @@ describe('tsconfig-holy-grail', () => {
 
         it('should be a parsable config file', () => {
             return load(cwd, path)
-                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
+                .then(({ config, path }) => parseJsonConfigFileContent(config, sys, dirname(path), null, path));
         });
 
     });

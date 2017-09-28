@@ -22,7 +22,7 @@
     "mocha": "^3.5.3",
     "tsconfig": "^7.0.0",
     "tslint": "^5.7.0",
-    "tslint-config-holy-grail": "^13.0.5",
+    "tslint-config-holy-grail": "^13.0.6",
     "typescript": "^2.5.3"
   },
   "engines": {

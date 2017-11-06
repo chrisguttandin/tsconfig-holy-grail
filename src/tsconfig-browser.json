@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": [ "dom", "es2016" ]
+    "lib": [ "dom", "es2017" ]
   },
   "extends": "./tsconfig"
 }

@@ -42,5 +42,5 @@
     "precommit": "grunt lint",
     "test": "grunt lint && grunt test"
   },
-  "version": "3.0.22"
+  "version": "3.0.23"
 }

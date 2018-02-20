@@ -32,7 +32,8 @@
   "license": "MIT",
   "name": "tsconfig-holy-grail",
   "peerDependencies": {
-    "tslib": ">=1.7.1"
+    "tslib": ">=1.7.1",
+    "typescript": ">=2.6.2"
   },
   "repository": {
     "type": "git",

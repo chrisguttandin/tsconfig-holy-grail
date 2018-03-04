@@ -3,6 +3,11 @@
   "bugs": {
     "url": "https://github.com/chrisguttandin/tsconfig-holy-grail/issues"
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "dependencies": {
     "@types/node": "^9.4.6"
   },

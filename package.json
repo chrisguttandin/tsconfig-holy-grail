@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "@types/node": "^9.4.7"
+    "@types/node": "^9.6.0"
   },
   "description": "This is just my personal collection of tsconfig files.",
   "devDependencies": {

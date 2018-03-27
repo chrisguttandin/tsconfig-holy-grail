@@ -29,7 +29,7 @@
     "load-grunt-config": "^0.19.2",
     "mocha": "^5.0.5",
     "tsconfig": "^7.0.0",
-    "typescript": "^2.7.2"
+    "typescript": "^2.8.1"
   },
   "engines": {
     "node": ">=6.11.2"

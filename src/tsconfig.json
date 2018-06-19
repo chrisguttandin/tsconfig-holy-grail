@@ -21,6 +21,7 @@
     "sourceRoot": "/build/es2015",
     "strictFunctionTypes": true,
     "strictNullChecks": true,
+    "strictPropertyInitialization": true,
     "target": "es2015",
     "types": [ ]
   }

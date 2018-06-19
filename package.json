@@ -52,5 +52,5 @@
     "precommit": "grunt lint",
     "test": "grunt lint && grunt test"
   },
-  "version": "4.0.25"
+  "version": "5.0.0"
 }

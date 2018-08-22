@@ -4,6 +4,7 @@
     "alwaysStrict": true,
     "baseUrl": "",
     "declaration": true,
+    "declarationMap": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "importHelpers": true,

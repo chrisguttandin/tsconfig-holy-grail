@@ -39,6 +39,7 @@
   "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
   "husky": {
     "hooks": {
+      "commit-msg": "commitlint --edit --extends @commitlint/config-angular",
       "pre-commit": "grunt lint"
     }
   },

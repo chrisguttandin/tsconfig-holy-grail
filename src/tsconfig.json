@@ -8,8 +8,8 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "importHelpers": true,
-    "mapRoot": "/build/es2015",
-    "module": "es2015",
+    "mapRoot": "/build/es2018",
+    "module": "es2018",
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
@@ -17,13 +17,13 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "../../../build/es2015",
+    "outDir": "../../../build/es2018",
     "sourceMap": true,
-    "sourceRoot": "/build/es2015",
+    "sourceRoot": "/build/es2018",
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
-    "target": "es2015",
+    "target": "es2018",
     "types": [ ]
   }
 }

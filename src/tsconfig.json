@@ -9,7 +9,7 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "mapRoot": "/build/es2018",
-    "module": "es2018",
+    "module": "es2015",
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,

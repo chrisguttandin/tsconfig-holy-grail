@@ -21,6 +21,7 @@
     "outDir": "../../../build/es2018",
     "sourceMap": true,
     "sourceRoot": "/build/es2018",
+    "strictBindCallApply": true,
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,

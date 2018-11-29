@@ -47,7 +47,7 @@
   "name": "tsconfig-holy-grail",
   "peerDependencies": {
     "tslib": ">=1.7.1",
-    "typescript": ">=2.9.2"
+    "typescript": "^3.2.1"
   },
   "repository": {
     "type": "git",

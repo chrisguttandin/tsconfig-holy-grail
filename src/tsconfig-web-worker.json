@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": [ "es2017", "webworker" ]
+    "lib": [ "es2018", "webworker" ]
   },
   "extends": "./tsconfig"
 }

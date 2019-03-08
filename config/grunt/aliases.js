@@ -3,6 +3,6 @@ module.exports = {
         'eslint'
     ],
     test: [
-        'mochaTest'
+        'sh:test-integration'
     ]
 };

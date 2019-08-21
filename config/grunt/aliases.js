@@ -1,6 +1,7 @@
 module.exports = {
     lint: [
-        'eslint'
+        'sh:lint-config',
+        'sh:lint-test'
     ],
     test: [
         'sh:test-integration'

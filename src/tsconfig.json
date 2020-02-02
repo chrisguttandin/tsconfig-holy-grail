@@ -10,7 +10,7 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
-    "mapRoot": "/build/es2018",
+    "mapRoot": "/build/es2019",
     "module": "es2015",
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": true,
@@ -19,14 +19,14 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "../../../build/es2018",
+    "outDir": "../../../build/es2019",
     "sourceMap": true,
-    "sourceRoot": "/build/es2018",
+    "sourceRoot": "/build/es2019",
     "strictBindCallApply": true,
     "strictFunctionTypes": true,
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
-    "target": "es2018",
+    "target": "es2019",
     "types": [ ]
   }
 }

@@ -9,7 +9,7 @@
         }
     },
     "dependencies": {
-        "@types/node": "^12.12.64"
+        "@types/node": "^12.12.67"
     },
     "description": "This is just my personal collection of tsconfig files.",
     "devDependencies": {

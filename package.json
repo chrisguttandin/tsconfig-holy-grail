@@ -38,12 +38,6 @@
         "src/"
     ],
     "homepage": "https://github.com/chrisguttandin/tsconfig-holy-grail",
-    "husky": {
-        "hooks": {
-            "commit-msg": "commitlint --edit --extends @commitlint/config-angular",
-            "pre-commit": "pretty-quick --config config/prettier/config.json --staged && grunt lint"
-        }
-    },
     "license": "MIT",
     "name": "tsconfig-holy-grail",
     "peerDependencies": {
@@ -55,6 +49,7 @@
         "url": "https://github.com/chrisguttandin/tsconfig-holy-grail.git"
     },
     "scripts": {
+        "prepare": "husky install",
         "test": "grunt lint && grunt test"
     },
     "version": "11.0.58"

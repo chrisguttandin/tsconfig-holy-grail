@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "lib": ["dom", "es2019"]
+        "lib": ["dom"]
     },
     "extends": "./tsconfig"
 }

@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "types": ["node"]
+        "types": ["es2019", "node"]
     },
     "extends": "./tsconfig"
 }

@@ -49,6 +49,7 @@
         "url": "https://github.com/chrisguttandin/tsconfig-holy-grail.git"
     },
     "scripts": {
+        "lint:config": "eslint --config config/eslint/config.json --ext .js --report-unused-disable-directives config/",
         "prepare": "husky install",
         "test": "grunt lint && grunt test"
     },

@@ -14,7 +14,7 @@
     "description": "This is my personal collection of tsconfig files.",
     "devDependencies": {
         "@commitlint/cli": "^18.5.0",
-        "@commitlint/config-angular": "^17.8.0",
+        "@commitlint/config-angular": "^18.5.0",
         "chai": "^4.3.10",
         "commitizen": "^4.3.0",
         "cz-conventional-changelog": "^3.3.0",

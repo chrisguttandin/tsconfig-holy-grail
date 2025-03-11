@@ -53,7 +53,7 @@
         "lint:config": "eslint --config config/eslint/config.json --ext .js --report-unused-disable-directives config/",
         "lint:test": "eslint --config config/eslint/test.json --ext .js --report-unused-disable-directives test/",
         "prepare": "husky",
-        "test": "grunt lint && grunt test"
+        "test": "npm run lint && grunt test"
     },
     "version": "15.0.2"
 }

@@ -53,7 +53,8 @@
         "lint:config": "eslint --config config/eslint/config.json --ext .js --report-unused-disable-directives config/",
         "lint:test": "eslint --config config/eslint/test.json --ext .js --report-unused-disable-directives test/",
         "prepare": "husky",
-        "test": "npm run lint && grunt test"
+        "test": "npm run lint && grunt test",
+        "test:integration": "mocha --bail --parallel --recursive --require config/mocha/config-integration.js test/integration"
     },
     "version": "15.0.2"
 }

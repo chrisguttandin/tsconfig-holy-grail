@@ -53,8 +53,8 @@
         "lint:config": "eslint --config config/eslint/config.json --ext .cjs --ext .js --ext .mjs --report-unused-disable-directives config/",
         "lint:test": "eslint --config config/eslint/test.json --ext .js --report-unused-disable-directives test/",
         "prepare": "husky",
-        "test": "npm run lint && grunt test",
-        "test:integration": "mocha --bail --parallel --recursive --require config/mocha/config-integration.js test/integration"
+        "test": "npm run lint && npm run test:integration",
+        "test:integration": "if [ \"$TYPE\" = \"\" -o \"$TYPE\" = \"integration\" ]; then mocha --bail --parallel --recursive --require config/mocha/config-integration.js test/integration; fi"
     },
     "version": "15.0.2"
 }

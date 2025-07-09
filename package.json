@@ -22,7 +22,7 @@
         "eslint-config-holy-grail": "^60.0.36",
         "husky": "^9.1.7",
         "lint-staged": "^16.1.2",
-        "mocha": "^11.6.0",
+        "mocha": "^11.7.1",
         "prettier": "^3.5.3",
         "tsconfig": "^7.0.0",
         "typescript": "^5.8.3"
